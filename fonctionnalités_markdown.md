@@ -31,9 +31,8 @@
 3. Troisième élément
 
 ## Liens et Images
-Texte du lien
 
-!Texte alternatif de l'image
+![Logo Simplon](https://simplon.co/storage/43206/Simplon-icotype_rouge-1000.png)
 
 ## Citations
 > Ceci est une citation.
@@ -71,6 +70,7 @@ def bonjour():
 Voici une équation en LaTeX : $$E = mc^2$$
 
 ## Mentions
+
 @ABOY-IA
 
 ## Table des matières
